@@ -78,11 +78,6 @@ Precision: 0.71
 F1 Score:  0.72
 AUC-ROC:   0.78
 ```bash
-# Example evaluation output
-Accuracy: 0.87
-Recall:    0.85
-Precision: 0.88
-AUC-ROC:   0.91
 ````
 
 ## Usage
